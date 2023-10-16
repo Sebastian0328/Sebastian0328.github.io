@@ -5,8 +5,8 @@ import { BsMoonStars } from "react-icons/bs";
 export const Gallery = () => {
   const fotos = [
     "foto1.jpeg",
-    "foto 2.jpeg",
-    "foto 3.jpeg",
+    "foto_2.jpeg",
+    "foto_3.jpeg",
     "foto4.jpeg",
     "foto5.jpeg",
     "foto6.jpeg",

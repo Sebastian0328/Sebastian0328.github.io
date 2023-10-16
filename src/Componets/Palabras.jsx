@@ -8,7 +8,7 @@ export const Palabras = () => {
         <hr />
         <BsMoon />
       </div>
-      <div className="flex pt-6 justify-between">
+      <div className="flex pt-6 justify-around">
         <div className=" flex flex-col gap-8 w-1/2 bg-indigo-300 p-4 rounded">
           <div className="flex">
             <p>
@@ -43,7 +43,7 @@ export const Palabras = () => {
           </div>
         </div>
         <div>
-          <img src="src/assets/foto parada.jpeg" alt="" width="400px" />
+          <img src="src/assets/foto_parada.jpeg" alt="" width="400px" />
         </div>
       </div>
     </div>
