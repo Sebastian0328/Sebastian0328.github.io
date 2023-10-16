@@ -1,5 +1,5 @@
 import React from "react";
-import { BsMoon } from "react-icons/Bs";
+import { BsMoon } from "react-icons/bs";
 export const Palabras = () => {
   return (
     <div>
