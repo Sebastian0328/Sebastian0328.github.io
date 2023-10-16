@@ -1,7 +1,7 @@
 import React from "react";
 import { AiFillHeart } from "react-icons/ai";
 import { BsFillMoonStarsFill, BsFillMoonFill } from "react-icons/bs";
-import { AiFillStar } from "react-icons/aii";
+import { AiFillStar } from "react-icons/ai";
 import { BsFillArrowThroughHeartFill } from "react-icons/bs";
 
 export const Nav = () => {

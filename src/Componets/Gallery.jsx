@@ -1,6 +1,6 @@
 import React from "react";
 import { Foto } from "./Foto";
-import { BsMoonStars } from "react-icons/Bs";
+import { BsMoonStars } from "react-icons/bs";
 
 export const Gallery = () => {
   const fotos = [
