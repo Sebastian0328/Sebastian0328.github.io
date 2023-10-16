@@ -43,7 +43,7 @@ export const Palabras = () => {
           </div>
         </div>
         <div>
-          <img src="src/assets/foto-parada.svg" alt="" width="400px" />
+          <img src="src/foto_parada.jpeg" alt="" width="400px" />
         </div>
       </div>
     </div>
