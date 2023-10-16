@@ -9,7 +9,7 @@ import { Gallery } from "./Componets/Gallery";
 function App() {
   return (
     <>
-      <div className=" p-10 bg-sky-300">
+      <div className=" p-10 bg-red-100 font-Alumni">
         <Nav />
         <Home />
         <Gallery />

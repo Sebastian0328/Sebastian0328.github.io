@@ -6,7 +6,7 @@ import { BsFillArrowThroughHeartFill } from "react-icons/bs";
 
 export const Nav = () => {
   return (
-    <nav className="flex justify-between bg-indigo-300 p-4 rounded">
+    <nav className="flex justify-between bg-red-300 p-4 rounded">
       <a href="https://instagram.com/__saraavl?igshid=MzRlODBiNWFlZA==">
         <div className="flex items-center gap-2">
           <p>Sara Valentina Rodriguez Rodriguez</p>

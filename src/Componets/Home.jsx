@@ -4,7 +4,7 @@ import { Palabras } from "./Palabras";
 export const Home = () => {
   return (
     <div className="flex flex-col pt-16">
-      <h1 className="text-center text-6xl">
+      <h1 className="text-center text-6xl font-Alumni">
         Mi amor hermosa te presento tu pagina, donde te digo lo mucho que te
         amo.
       </h1>

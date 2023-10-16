@@ -9,7 +9,7 @@ export const Palabras = () => {
         <BsMoon />
       </div>
       <div className="flex pt-6 justify-around">
-        <div className=" flex flex-col gap-8 w-1/2 bg-indigo-300 p-4 rounded">
+        <div className=" flex flex-col gap-8 w-1/2 bg-red-300 p-4 rounded">
           <div className="flex">
             <p>
               ¡Hola mi vida! ¿Como estas? Te queria decir lo mucho que te amo y
